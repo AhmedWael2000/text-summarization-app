@@ -1,0 +1,4 @@
+scipy==1.11.4
+nltk==3.8.1
+re==2.2.1
+transformers==4.35.2
