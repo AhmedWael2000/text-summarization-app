@@ -1,5 +1,5 @@
 scipy==1.11.4
 nltk==3.8.1
 regex==2022.7.9
-re2==0.2.24
+
 transformers==4.35.2
