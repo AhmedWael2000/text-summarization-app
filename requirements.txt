@@ -1,3 +1,4 @@
 scipy==1.11.4
 nltk==3.8.1
 transformers==4.35.2
+streamlit==1.31.1
